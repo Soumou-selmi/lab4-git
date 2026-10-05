@@ -1,1 +1,1 @@
-Projet Git et Forgejo
+Projet Git et GitHub
